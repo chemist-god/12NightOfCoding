@@ -2,7 +2,7 @@
 //
 // https://cryptomarketpool.com/visibility
 
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.27;
 
 contract MyContract {
     // Private – A private function/state variable is only available inside the contract that defines it. It is generally good practice to keep functions private.
